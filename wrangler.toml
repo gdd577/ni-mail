@@ -11,8 +11,8 @@ compatibility_flags = ["nodejs_compat"]
 # custom_domain = true
 #
 # [[routes]]
-# pattern = "mail.domain-b.com"
-# custom_domain = true
+pattern = "mail.111206.xyz"
+custom_domain = true
 # ─────────────────────────────────────────────────────────────────
 
 # KV 綁定和 AUTH_KEY 請在 Cloudflare 控制台設定：
