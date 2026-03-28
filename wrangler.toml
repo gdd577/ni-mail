@@ -10,7 +10,7 @@ compatibility_flags = ["nodejs_compat"]
 # pattern = "mail.domain-a.com"
 # custom_domain = true
 #
-# [[routes]]
+[[routes]]
 pattern = "mail.111206.xyz"
 custom_domain = true
 # ─────────────────────────────────────────────────────────────────
